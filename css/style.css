@@ -385,6 +385,7 @@ ul.service-list li i {
   opacity: 0.6;
   color: inherit;
   padding: 10px 0px;
+  text-align: justify;
 }
 
 .service-item a {
@@ -492,12 +493,12 @@ TESTIMONIAL
 #testimonial {
   background: url('../img/rupaul1.jpg') no-repeat;
   background-size: cover;
-  min-height: 390px;
+  min-height: 470px;
 }
 
 .bg-testicolor {
   background-color: RGBA(73, 84, 105, 0.61);
-  min-height: 390px;
+  min-height: 470px;
 }
 
 .white {
